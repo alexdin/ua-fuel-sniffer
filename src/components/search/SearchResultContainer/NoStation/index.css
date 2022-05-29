@@ -1,0 +1,9 @@
+.no-station {
+    width: 80%;
+    height: 50px;
+    line-height: 50px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    text-align: center;
+    margin: 20px auto 0;
+}
